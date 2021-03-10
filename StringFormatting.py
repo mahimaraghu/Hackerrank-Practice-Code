@@ -1,6 +1,5 @@
 def print_formatted(number):
-    
-    for i in range (1,number+1):
+   for i in range (1,number+1):
         decimal=str(i)
         octal=oct(i).lstrip("0o")
         hexadecimal=hex(i).lstrip("0x").upper()
