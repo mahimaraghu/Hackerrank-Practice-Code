@@ -23,6 +23,9 @@ print('Hello World')
 ```
 
 **Bold Text**
+
 __Another Bold__
+
 *Italic*
+s
 _Another Italic_
